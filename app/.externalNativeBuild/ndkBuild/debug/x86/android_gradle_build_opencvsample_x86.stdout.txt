@@ -1,2 +1,0 @@
-[x86] Compile++      : opencvsample <= sample.cpp
-[x86] SharedLibrary  : libopencvsample.so
